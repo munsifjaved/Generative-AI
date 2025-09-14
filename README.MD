@@ -24,6 +24,5 @@ Generative-AI/
 ├─ Health Assistant Agent.py      # Health Assistant Agent
 ├─ Travel Planner Agent.py        # Travel Planner Agent
 ├─ requirements.txt               # Python dependencies
-├─ Dockerfile                     # Docker configuration (optional)
-├─ README.MD                      # Project documentation
-└─ .env                           # Environment variables (API keys)
+├─ Dockerfile                     # Docker configuration 
+└─ README.MD                      # Project documentation
