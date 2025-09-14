@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent Assistant Repository
+# 🤖 Generative AI Multi-Agent Repository
 
 This repository contains **three fully-featured AI agents** built with **Chainlit** and **Hugging Face Spaces**. Each agent is **self-contained** with:
 
@@ -18,11 +18,12 @@ Agents included:
 ## 📁 Repository Structure
 
 ```text
-multi-agent-assistant/
+Generative-AI/
 │
-├─ finance_agent.py       # Finance Advisor Agent
-├─ health_agent.py        # Health Assistant Agent
-├─ travel_agent.py        # Travel Planner Agent
-├─ requirements.txt       # Python dependencies
-├─ .env                   # Environment variables (API keys)
-└─ README.md              # Project documentation
+├─ Finance Advisor Agent.py       # Finance Advisor Agent
+├─ Health Assistant Agent.py      # Health Assistant Agent
+├─ Travel Planner Agent.py        # Travel Planner Agent
+├─ requirements.txt               # Python dependencies
+├─ Dockerfile                     # Docker configuration (optional)
+├─ README.MD                      # Project documentation
+└─ .env                           # Environment variables (API keys)
